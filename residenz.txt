@@ -1,0 +1,74 @@
+# Hosttabelle von zu sperrender URLs
+#
+
+# Vodafone Mobiles
+
+0.0.0.0 mplusps.ims.vodafone.com
+0.0.0.0 mpluswf.ims.vodafone.com
+0.0.0.0 mplus.ims.vodafone.com
+
+# Philips Hue
+
+0.0.0.0 diagnostics.meethue.com
+0.0.0.0 dcp.dc1.philips.com
+0.0.0.0 ws.meethue.com
+0.0.0.0 ecdinterface.philips.com
+
+# Yamaha Receiver
+
+0.0.0.0 avpro.global.yamaha.com
+
+# Adobe
+
+0.0.0.0 activate.adobe.com
+0.0.0.0 practivate.adobe.com
+0.0.0.0 adobeereg.com
+0.0.0.0 adobeereg.com
+0.0.0.0 activate-sea.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
+0.0.0.0 activate-sjc0.adobe.com
+0.0.0.0 192.150.18.108
+0.0.0.0 3dns.adobe.com
+0.0.0.0 3dns-1.adobe.com
+0.0.0.0 3dns-2.adobe.com
+0.0.0.0 3dns-3.adobe.com
+0.0.0.0 3dns-4.adobe.com
+0.0.0.0 adobe-dns.adobe.com
+0.0.0.0 adobe-dns-1.adobe.com
+0.0.0.0 adobe-dns-2.adobe.com
+0.0.0.0 adobe-dns-3.adobe.com
+0.0.0.0 adobe-dns-4.adobe.com
+0.0.0.0 adobe-dns-5.adobe.com	
+0.0.0.0 ereg.wip3.adobe.com
+0.0.0.0 ereg.adobe.com
+0.0.0.0 wip3.adobe.com
+0.0.0.0 ntrack.com
+0.0.0.0 hl2rcv.adobe.com
+0.0.0.0 activate.wip3.adobe.com
+0.0.0.0 activate.adobe.de
+0.0.0.0 practivate.adobe.de
+0.0.0.0 ereg.adobe.de
+0.0.0.0 activate.wip3.adobe.de	
+0.0.0.0 wip3.adobe.de
+0.0.0.0 3dns-3.adobe.de
+0.0.0.0 3dns-2.adobe.de
+0.0.0.0 adobe-dns.adobe.de
+0.0.0.0 adobe-dns-2.adobe.de
+0.0.0.0 adobe-dns-3.adobe.de
+0.0.0.0 ereg.wip3.adobe.de
+0.0.0.0 activate-sea.adobe.de	
+0.0.0.0 wwis-dubc1-vip60.adobe.de	
+0.0.0.0 activate-sjc0.adobe.de
+0.0.0.0 hl2rcv.adobe.de
+
+# Logitech Harmony
+
+0.0.0.0 myharmony.com
+
+# DVD Fab
+
+0.0.0.0 dvdfab.cn
+0.0.0.0 dvdfab.com
+0.0.0.0 dvdfabstore.com
+
+# End of custom host records.
