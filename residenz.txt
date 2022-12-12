@@ -71,4 +71,16 @@
 0.0.0.0 dvdfab.com
 0.0.0.0 dvdfabstore.com
 
+# Samsung
+
+0.0.0.0 scs.samsungqbe.com
+0.0.0.0 gpm.samsungqbe.com
+0.0.0.0 img-resize-cdn-prod.samsungnyc.com
+0.0.0.0 uts-api.itunes.apple.com
+0.0.0.0 bag.itunes.apple.com
+0.0.0.0 dss-hydra-feeds-prod.bamgrid.com
+0.0.0.0 config-cd-dmgz.bamgrid.com
+0.0.0.0 nrdp-ipv6.prod.ftl.netflix.com
+0.0.0.0 osb-v2.samsungqbe.com
+
 # End of custom host records.
