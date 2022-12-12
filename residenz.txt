@@ -17,6 +17,8 @@
 # Yamaha Receiver
 
 0.0.0.0 avpro.global.yamaha.com
+0.0.0.0 ntp.nict.jp
+0.0.0.0 ntp.airable.io
 
 # Adobe
 
