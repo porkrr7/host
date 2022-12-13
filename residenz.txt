@@ -67,6 +67,7 @@
 
 0.0.0.0 myharmony.com
 0.0.0.0 svcs.myharmony.com
+0.0.0.0 home.myharmony.com
 
 # DVD Fab
 
