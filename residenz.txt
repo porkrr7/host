@@ -66,6 +66,7 @@
 # Logitech Harmony
 
 0.0.0.0 myharmony.com
+0.0.0.0 svcs.myharmony.com
 
 # DVD Fab
 
