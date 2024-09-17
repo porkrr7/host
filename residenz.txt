@@ -104,4 +104,9 @@
 0.0.0.0 services.bingapis.com
 0.0.0.0 in.appcenter.ms
 
+# Meross Devices
+
+0.0.0.0 aliyun.com
+
+
 # End of custom host records.
